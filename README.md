@@ -1,4 +1,4 @@
-# Predictive-Model-Analysis
+# Income Range Classification via Predictive Modeling
 Best predictive model to study the impact of demographic and employment factors on income range. 
 • Objective: In this project, assessed various predictive models to analyze the impact of demographic and employment 
 factors on income classification. Identified key predictors influencing income levels. 
